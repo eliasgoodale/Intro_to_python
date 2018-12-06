@@ -1,0 +1,3 @@
+	I am mostly interested in writing AI genetic  evalutation and generation algorithms to produce unique, instance specific code on the fly.
+I like C++, Python, C, LISP, and Clojure. I would someday like to incorporate a low-level, to-the-metal, text map reducer system into a high-level 
+language like Python to achieve the best of both worlds.
